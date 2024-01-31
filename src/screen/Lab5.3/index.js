@@ -11,7 +11,7 @@ const Lab53= ()=>{
             source={require('../../assets/background.png')}
             style={style.image}>
                 <View style={style.bar}>
-                    <Icon style={style.mn1} name="angle-left" size={35} color="#FFFFFF"/>
+                    <Icon style={style.mn1} name="angle-left" size={35} color="#FFFFFF" />
                     <Icon style={style.mn2}name="ellipsis-v" size={25} color="#FFFFFF"/>
                 </View>
                 <View style={style.bgcity}>
