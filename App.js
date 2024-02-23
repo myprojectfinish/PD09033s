@@ -11,8 +11,9 @@ import Lab6 from './src/screen/Lab6';
 import Apps from './src/screen/Lab7';
 import Lab from './src/screen/Lab7';
 import TopMenu from './src/screen/Lab7/topmenu';
+import Crud from './src/screen/lab8/CRUD';
 const App = () => {
-  return <TopMenu/>
+  return <Crud></Crud>
 };
 
 export default App;
